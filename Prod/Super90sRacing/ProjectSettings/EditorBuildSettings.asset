@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Init/Init_View.unity
+    guid: b920eec405130dd48a7c200835b33d16
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu_View.unity
+    guid: 8874d7e397f9d0d4a8d926077bb3380c
+  - enabled: 1
+    path: Assets/Scenes/GamePlay/GamePlay.unity
+    guid: 70d1d24ac5792a34fa2802f65a6c490d
+  - enabled: 1
+    path: Assets/Scenes/Season_Career/Season_Career.unity
+    guid: c5656b105e893a54a8f31c717ca46b0a
+  m_configObjects: {}
